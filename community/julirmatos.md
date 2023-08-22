@@ -7,7 +7,7 @@ Olá, Sou **Juliana Matos** nutricionista em transição de carreira. Adoro tecn
 ### Github
 [julirmatos](https://github.com/julirmatos)
 
-### Likidin
+### Linkedin
 [Juliana Matos](https://www.linkedin.com/in/juliana-matos-8882aa83/)
 
 ### Tecnologias Utilizadas 
